@@ -1,0 +1,12 @@
+numpy
+pandas
+matplotlib
+yfinance
+scikit-learn
+tensorflow
+keras
+streamlit
+
+
+Command to install all the libraries at time
+pip install numpy pandas matplotlib yfinance scikit-learn tensorflow keras streamlit
